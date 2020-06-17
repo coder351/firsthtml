@@ -1,6 +1,8 @@
 ## My First HTML Website
 
-I have used basic HTML to design the website. It's great starter experince with static website
+I have used basic HTML to design the website. It's great starter experince with static website.
+
+Please visit http://web.nkcs.tech to view it!
 
 This repository is licensed under [MIT](LICENSE) (c) 2019 GitHub, Inc.
 Photo by [Kelli Tungay](https://unsplash.com/photos/Sj0nhVIb4eY) on [Unsplash](https://unsplash.com/)
